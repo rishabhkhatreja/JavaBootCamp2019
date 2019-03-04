@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="228b303c-9686-4101-bc7d-04882b43cd3b" name="Default Changelist" comment="" />
+    <list default="true" id="228b303c-9686-4101-bc7d-04882b43cd3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question1/GreaterOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question1/IntegerIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question1/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question1/StringToUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question2/ReturnOneArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question3/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question4/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question6/InterfaceDemoWithStaticAndDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question7/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question8/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question8/InterfaceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Question9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question1/ThreadCreationByImplementingRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question1/ThreadCreationUsingThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question10/SyncronizedMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question10/SyncronizedMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question11/SyncronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question11/SyncronizedBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question13/WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question2/ThreadSleepAndJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question3/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question4/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question4/MyRunnable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question5/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question6/ThreadDoneCancelled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question7/WaitTillCompletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question8/ScheduleAtFixedDelayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question8/ScheduleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question8/ScheduleFixedRateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question9/CachedThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Question9/NewFixedThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,99 +85,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Question10Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question13/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Cashier.java">
+        <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Barista.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -129,6 +108,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,6 +130,8 @@
         <option value="$PROJECT_DIR$/src/IntroductionToJava2/Question10/Customer.java" />
         <option value="$PROJECT_DIR$/src/IntroductionToJava2/Question10/Barista.java" />
         <option value="$PROJECT_DIR$/src/IntroductionToJava2/Question10/Cashier.java" />
+        <option value="$PROJECT_DIR$/src/Java8Features/Question8/Main.java" />
+        <option value="$PROJECT_DIR$/src/MultiThreading/Question13/Main.java" />
       </list>
     </option>
   </component>
@@ -157,6 +141,7 @@
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -175,19 +160,6 @@
               <item name="JavaBootCamp2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaBootCamp2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBootCamp2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IntroductionToJava2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBootCamp2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBootCamp2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IntroductionToJava2" type="462c0819:PsiDirectoryNode" />
-              <item name="Question10" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -198,13 +170,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551683024099" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551684410661" />
+    <property name="last_opened_file_path" value="$USER_HOME$/tothenew/Collection" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MultiThreading" />
+      <recent name="$PROJECT_DIR$/src/Java8Features" />
       <recent name="$PROJECT_DIR$/src/DesignPattern" />
       <recent name="$PROJECT_DIR$/src/IntroductionToJava2" />
     </key>
@@ -221,13 +195,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroductionToJava2.Question12.Main" />
       <module name="JavaBootCamp2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="IntroductionToJava2.Question12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroductionToJava2.Question5.Main" />
+      <module name="JavaBootCamp2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntroductionToJava2.Question5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Features.Question1.Main" />
+      <module name="JavaBootCamp2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Features.Question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.Question1.Main" />
+      <module name="JavaBootCamp2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.Question1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,6 +263,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
@@ -266,11 +282,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551680369260</updated>
       <workItem from="1551680372694" duration="2436000" />
+      <workItem from="1551682954999" duration="1451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2436000" />
+    <option name="totallyTimeSpent" value="3887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1279" height="701" extended-state="0" />
@@ -281,21 +298,21 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2538524" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25790754" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32969034" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32906765" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32906765" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32969034" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -332,23 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#1075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Question1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Question1/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question3/Question3Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -451,17 +452,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Question10Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="105">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="225">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="e#180#181#0" expanded="true" />
@@ -480,8 +478,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#189#190#0" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
@@ -502,13 +500,9 @@
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Barista.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -516,22 +510,111 @@
     <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question10/Cashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#1075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaBootCamp2019.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroductionToJava2/Question5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question1/IntegerIncrement.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question2/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question8/InterfaceDemo1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question6/InterfaceDemoWithStaticAndDefaultMethod.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question7/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question1/StringToUpper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question2/ReturnOneArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question5/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question1/GreaterOrNot.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Features/Question1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question8/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question11/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question8/ScheduleDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question13/WaitAndNotify.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question4/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question15/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question14/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question10/SyncronizedMethod.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question11/SyncronizedBlockDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question13/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Question1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
